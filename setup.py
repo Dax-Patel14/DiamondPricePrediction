@@ -26,10 +26,4 @@ setup(
     author_email='dakshpatel731@gmail.com',
     install_requires = get_requirements('requirements.txt'), ## to install all packages mention in requirements.txt file
     packages=find_packages() ## to find sub modules
-
-
-
-
-
-
 )
